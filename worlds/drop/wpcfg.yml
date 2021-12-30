@@ -1,0 +1,7 @@
+---
+bancmds:
+  /fly: /fly
+  /muafly: /muafly
+pvp: false
+protect: lock
+...

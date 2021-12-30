@@ -1,0 +1,19 @@
+---
+Prefix: §l§a[§bAH§a] §r
+HoldItem: §cPlease hold item in your hand§r
+SurvivalOnly: §cPlease switch to survival
+DontMove: §cPlease don't move while opening Auction
+AddAuctionSuccess: §fYou successfully add §b{itemName} §fx§b{itemCount} §ffor §b{price}
+  §fon §aAuction§r
+ReachAuctionLimit: §cYou've reached auction limit§r
+InvalidPriceRange: §cOnly §b{minimumPrice} §cto §b{maximumPrice} §cprice are allowed§r
+InvalidPriceValue: §cPlease put a valid number§r
+InvalidItem: §cItem is not allowed
+ReceivedMoney: §fYou received §b{money} §ffrom §aauction§r
+PurchaseSuccess: §fYou purchased §b{itemName} §fx§b{itemCount} §ffor §b{price}§r
+NotEnoughMoney: §cYou do not have enough money§r
+FailedToOpen: §cFailed to open. Please try again later
+MoveUp: §cFailed to open. Please move 5 blocks up
+NoDupe: §cDupe glitch is not allowed!
+NotAvailable: §cItem is not available. Try to refresh§r
+...

@@ -1,0 +1,10 @@
+---
+protect: lock
+bancmds:
+  /muafly: /muafly
+  /fly: /fly
+  /gmc: /gmc
+  /tp: /tp
+banitem:
+  325: Bucket
+...

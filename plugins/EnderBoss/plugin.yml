@@ -1,0 +1,16 @@
+name: EnderBoss
+main: EnderBoss\Main
+description: Không biết tiếng tàu
+version: 2.0.2
+api: 3.9.0
+load: POSTWORLD
+author: ace
+commands:
+  ender:
+    description: Tạo con boss Ender
+    usage: "/ender <create/spawn/delete/list>"
+    permission: ender.command
+permissions:
+  ender.command:
+    description: "Allows usage of the minibosses command."
+    default: op

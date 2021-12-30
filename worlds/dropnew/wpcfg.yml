@@ -1,0 +1,8 @@
+---
+pvp: false
+bancmds:
+  /pvp: /pvp
+  /fly: /fly
+  /gmc: /gmc
+protect: lock
+...

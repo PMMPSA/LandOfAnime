@@ -1,0 +1,9 @@
+name: AuctionHouseUpgraded
+main: SonsaYT\AuctionHouseUpgraded\Main
+api: [3.0.0]
+version: 1.0
+author: SonsaYT
+
+commands:
+ daugia:
+  description: "Use Auction House Upgraded"

@@ -1,0 +1,16 @@
+name: IronBoss
+main: IronBoss\Main
+description: Không biết tiếng tàu
+version: 2.0.2
+api: 3.9.0
+load: POSTWORLD
+author: ace
+commands:
+  iron:
+    description: Tạo con boss Iron
+    usage: "/iron <create/spawn/delete/list>"
+    permission: iron.command
+permissions:
+  iron.command:
+    description: "Allows usage of the minibosses command."
+    default: op

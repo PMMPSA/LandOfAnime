@@ -1,0 +1,16 @@
+name: CreeperBoss
+main: CreeperBoss\Main
+description: Không biết tiếng tàu
+version: 2.0.2
+api: 3.9.0
+load: POSTWORLD
+author: ace
+commands:
+  creeper:
+    description: Tạo con boss Creeper
+    usage: "/creeper <create/spawn/delete/list>"
+    permission: creeper.command
+permissions:
+  creeper.command:
+    description: "Allows usage of the minibosses command."
+    default: op

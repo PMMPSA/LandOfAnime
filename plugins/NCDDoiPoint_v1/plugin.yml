@@ -1,0 +1,10 @@
+name: NCDDoiPoint
+main: NCDDoiPoint\Main
+version: 1.0
+api: 3.0.0
+author: Nờ Cờ Dờ (NCD)
+
+commands:
+ doilcoin:
+  description: Đổi Lcoin Bằng Xu
+  default: true

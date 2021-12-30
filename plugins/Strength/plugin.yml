@@ -1,0 +1,13 @@
+name: Strength
+main: Strength\Main
+version: 1.0.0
+api: 3.0.0
+author: LNTK
+
+commands:
+  strength:
+    description: "Bật đấm phát chết luôn"
+    permission: strength.command
+permissions:
+  strength.command:
+    default: op

@@ -1,0 +1,10 @@
+name: NCDMuaVip
+main: NCDMuaVip\Main
+version: 4.0
+api: 3.0.0
+author: Nờ Cờ Dờ (NCD)
+description: Plugin MuaVip for PocketMine-MP!
+commands:
+  muavip:
+    aliases: ["muarank", "buyvip", "buyrank"]
+    description: Mở Menu Mua Vip

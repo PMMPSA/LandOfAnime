@@ -1,0 +1,18 @@
+---
+# AutoClearLagg (ACL) Settings
+
+# Seconds between each clear lagg
+seconds: 120
+
+# Things to clear
+items: true
+mobs: false
+
+# Messages broadcasted
+time-left-message: §cSẽ Bắt Đầu Dọn Rác Trong {SECONDS} giây
+items-cleared-message: §cĐã Dọn {COUNT} items
+mobs-cleared-message: §c Mob Đã Biến Mất {COUNT} 
+
+# Countdown times
+times: [60, 30, 15, 10, 5, 4, 3, 2, 1]
+...

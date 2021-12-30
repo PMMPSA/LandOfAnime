@@ -1,0 +1,15 @@
+---
+bancmds:
+  /muafly: /muafly
+  /gamemode: /gamemode
+  /fly: /fly
+  /speed: /speed
+  /broadcast: /broadcast
+  /broadcaster: /broadcaster
+  /gmc: /gmc
+banitem:
+  261: Bow
+  325: Bucket
+protect: lock
+pvp: false
+...

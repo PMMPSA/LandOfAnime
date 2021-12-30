@@ -1,0 +1,84 @@
+---
+version: 1.4.10-6
+default-factions-plugin: FactionsPro
+enable-multiworld-chat: false
+groups:
+  Guest:
+    chat: §f[§e{fac_rank}{fac_name}§e§f]§c ♫§b…§eＦａｒｍｅｒ§b…§c♫ §r{display_name} §e⇀
+      §b{msg}
+    nametag: §f[§e{fac_rank}{fac_name}§e§f]§c ♫§b…§eＦａｒｍｅｒ§b…§c♫ §r{display_name}
+    worlds: []
+  Owner:
+    chat: §f[§e{fac_rank}{fac_name}§e§f]§a ღ§c…§e✿§cＯｗｎｅｒ§c…§aღ §r{display_name} §e⇀
+      §c{msg}
+    nametag: §f[§e{fac_rank}{fac_name}§e§f]§d ღ§a…§e✿Ｏｗｎｅｒ§a…§dღ §r{display_name}
+    worlds: []
+  OP:
+    chat: §f[§e{fac_rank}{fac_name}§e§f]§d ♡§a…§eღ✿❍ρ✿ღ§a…§d♡ §r{display_name} §e⇀
+      §a{msg}
+    nametag: §f[§e{fac_rank}{fac_name}§e§f]§d ♡§a…§eღ✿❍ρ✿ღ§a…§d♡ §r{display_name}
+    worlds: []
+  Helper:
+    chat: §f[§e{fac_rank}{fac_name}§e§f]§b ♡§a…§d✿↬§c …§eＨｅｌｐｅｒ§c… §d↫✿§a…§b♡ §r{display_name} §e⇀
+      §e{msg}
+    nametag: §f[§e{fac_rank}{fac_name}§e§f]§b ♡§a…§d✿↬§c…§eＨｅｌｐｅｒ§c…§d↫✿§a…§b♡ §r{display_name}
+  Member:
+    chat: §f[§e{fac_rank}{fac_name}§e§f]§e ♫§d…§eＦａｒｍｅｒＳ§d…§e♫ §r{display_name} §e⇀
+      §c{msg}
+    nametag: §l§b…•✌§a✪§fMember§a✪§b✌ §f{display_name}
+  Builder:
+    chat: §f[§e{fac_rank}{fac_name}§e§f]§d ♡§a…§b❤↬ §d…§eＢｕｉｌｄｅｒ§d… §b↫❤§a…§d♡ §r{display_name}
+      §e⇀ §c{msg}
+    nametag: §f[§e{fac_rank}{fac_name}§e§f]§d ♡§a…§b❤↬ §d…§eＢｕｉｌｄｅｒ§d… §b↫❤§a…§d♡ §r{display_name}
+  YT:
+    chat: §l§a[{fac_name}] ✌§fY❍ʊ§cζʊβℰℜ§a๖ۣۜ §f{display_name} §6•> §b{msg}
+    nametag: §l✌§fY❍ʊ§cζʊβℰℜ§a๖ۣۜ §f{display_name}
+  VIP1:
+    nametag: §f[§e{fac_rank}{fac_name}§e§f]§e§l ❤↬§b ᏠｉᎮ §cI §e↫❤ §r{display_name}
+      §e⇀ §c{msg}
+    chat: §f[§e{fac_rank}{fac_name}§e§f]§e§l ❤↬§b ᏠｉᎮ §cI §e↫❤ §r{display_name} §e⇀
+      §c{msg}
+  VIP2:
+    chat: §f[§e{fac_rank}{fac_name}§e§f]§e§l ❤↬§b ᏠｉᎮ §cII §e↫❤ §r{display_name} §e⇀
+      §c{msg}
+    nametag: §f[§e{fac_rank}{fac_name}§e§f]§e§l ❤↬§b ᏠｉᎮ §cII §e↫❤ §r{display_name}
+      §e⇀ §c{msg}
+  VIP3:
+    chat: §f[§e{fac_rank}{fac_name}§e§f]§e§l ❤↬§b ᏠｉᎮ §cIII §e↫❤ §r{display_name}
+      §e⇀ §c{msg}
+    nametag: §f[§e{fac_rank}{fac_name}§e§f]§e§l ❤↬§b ᏠｉᎮ §cIII §e↫❤ §r{display_name}
+      §e⇀ §c{msg}
+  VIP4:
+    chat: §f[§e{fac_rank}{fac_name}§e§f]§e§l ❤↬§b ᏠｉᎮ §cIV §e↫❤ §r{display_name} §e⇀
+      §c{msg}
+    nametag: §f[§e{fac_rank}{fac_name}§e§f]§e§l ❤↬§b ᏠｉᎮ §cIV §e↫❤ §r{display_name}
+      §e⇀ §c{msg}
+  VIP5:
+    chat: §f[§e{fac_rank}{fac_name}§e§f]§e§l ❤↬§b ᏠｉᎮ §cV §e↫❤ §r{display_name} §e⇀
+      §c{msg}
+    nametag: §f[§e{fac_rank}{fac_name}§e§f]§e§l ❤↬§b ᏠｉᎮ §cV §e↫❤ §r{display_name}
+      §e⇀ §c{msg}
+  VIP6:
+    chat: §f[§e{fac_rank}{fac_name}§e§f]§e§l ❤↬§b ᏠｉᎮ §cVI §e↫❤ §r{display_name} §e⇀
+      §c{msg}
+    nametag: §f[§e{fac_rank}{fac_name}§e§f]§e§l ❤↬§b ᏠｉᎮ §cVI §e↫❤ §r{display_name}
+      §e⇀ §c{msg}
+  PMem:
+    chat: §e[§f{fac_rank}{fac_name}§e] §a♪§e…§aPro-Member§e…§a♪ §f{display_name} §a→
+      {msg}
+    nametag: §e[§f{fac_rank}{fac_name}§e] §a♪§e…§aPro-Member§e…§a♪ §f{display_name}
+  Admin:
+    nametag: '&8&l[Admin]&f&r {display_name}'
+    chat: §d§l^.^§e§oAdmin§r§d§l^.^ §b{display_name} §c{msg}
+  plc:
+    nametag: §f[§e{fac_rank}{fac_name}§e§f]§e ❄§a…§d❤↬ §bＰｏｌｉｃｅ §d↫❤§a…§e❄ §r{display_name}
+      §e⇀ §e{msg}
+    chat: §f[§e{fac_rank}{fac_name}§e§f]§e ❄§a…§d❤↬ §bＰｏｌｉｃｅ §d↫❤§a…§e❄ §r{display_name}
+      §e⇀ §e{msg}
+  Topcup:
+    chat: §f[§e{fac_rank}{fac_name}§e§f]§e ❤↬ §bQuán Quân LevelCup §e↫❤ §r{display_name} §e⇀ §e{msg}
+    nametag: §f[§e{fac_rank}{fac_name}§e§f]§e ❤↬ §bQuán Quân LevelCup  §e↫❤ §r{display_name}
+  Police:
+    nametag: '&8&l[Police]&f&r {display_name}'
+    chat: '&8&l[Police]&f&r {display_name} &7> {msg}'
+...

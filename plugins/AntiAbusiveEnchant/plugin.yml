@@ -1,0 +1,6 @@
+name: AntiAbusiveEnchant
+author: LLENN
+version: 1.0
+description: Force above level 10 enchant to level 10 enchant
+api: 3.0.0-ALPHA12
+main: LLENN\AntiAbusiveEnchant

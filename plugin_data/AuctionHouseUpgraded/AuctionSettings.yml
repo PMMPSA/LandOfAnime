@@ -1,0 +1,27 @@
+---
+AuctionName: '          §l§bAuction §eHouse'
+ItemDisplay: "§aItem: §b{itemName} \n\n§r§aSeller: §b{seller}\n§r§aPrice: §b{price}§r\n\n§r§aExpiration:
+  §b{expiration}"
+MyAuction: |-
+  §l§aYour Auction
+  §rYou currently have §b{myauction}§c/{auctionlimit} §aauctions
+Bin: |-
+  §l§aCollection Bin
+  §rClick here to view and collect all of your
+  items that expired from auction
+LeftArrow: §l§e<< Previous Page
+Refresh: |-
+  §l§dREFRESH
+  §rClick here to refresh the list
+RightArrow: §l§eNext Page >>
+HowToSell: |-
+  §l§eHow to sell
+  §rHold an item and type §a/ah sell <price>
+Guide: |-
+  §l§aGuide
+  §rAuctionHouse is a place where
+  you can trade your items to earn money
+AuctionBinName: '          §l§bExpired §eItems'
+BackToAuction: §l§aBack to Auction
+ClaimAll: §l§bClaim All
+...

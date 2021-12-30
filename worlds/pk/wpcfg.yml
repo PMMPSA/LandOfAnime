@@ -1,0 +1,10 @@
+---
+pvp: false
+bancmds:
+  /fly: /fly
+  /muafly: /muafly
+banitem:
+  261: Bow
+  325: Bucket
+protect: lock
+...

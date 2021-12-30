@@ -1,0 +1,30 @@
+---
+pvp:
+  x: -409.662900
+  "y": 9.000000
+  z: 893.411300
+  level: PvP Map
+  public: false
+  metadata: []
+sb:
+  x: 278.639800
+  "y": 69.000000
+  z: 276.556600
+  level: sb
+  public: false
+  metadata: []
+pk:
+  x: 252.423600
+  "y": 4.800000
+  z: 238.792000
+  level: pk
+  public: false
+  metadata: []
+nhac:
+  x: -125.591700
+  "y": 64.000000
+  z: 212.144300
+  level: Sóng Gió - Hồng Nhan ~.~ VinhMC
+  public: false
+  metadata: []
+...

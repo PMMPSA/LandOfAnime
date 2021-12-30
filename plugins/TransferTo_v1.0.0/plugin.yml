@@ -1,0 +1,11 @@
+name: TransferTo
+main: TransferTo\Main
+version: 1.0.0
+api: 3.0.0
+author: ThinkerS
+editor: Nờ Cờ Dờ (NCD)
+
+commands:
+  server:
+    description: Dịch chuyển sang Server.
+    default: true

@@ -1,0 +1,9 @@
+name: MuaStick
+main: MuaStick\Main
+version: 1.0
+api: 3.0.0
+author: Nờ Cờ Dờ (NCD)
+
+commands:
+  muastick:
+    description: Mua Lại Stick Sell Của Bạn Bị Mất.

@@ -1,0 +1,13 @@
+name: Haste
+main: Haste\Main
+version: 1.0.0
+api: 3.0.0
+author: LNTK
+
+commands:
+  haste:
+    description: "Bật đào nhanh"
+    permission: haste.command
+permissions:
+  haste.command:
+    default: op

@@ -1,0 +1,16 @@
+---
+pvp: false
+banitem:
+  46: TNT
+  327: Unknown
+  325: Bucket
+  261: Bow
+  2: Grass
+bancmds:
+  /fly: /fly
+  /muafly: /muafly
+  /broadcast: /broadcast
+  /broadcaster: /broadcaster
+  /me: /me
+protect: lock
+...

@@ -1,0 +1,60 @@
+---
+examplekit:
+  items:
+    0:
+      id: 276
+      damage: 0
+      count: 1
+      display_name: §1Example Sword
+      enchants:
+        9: 1
+    1:
+      id: 278
+      damage: 0
+      count: 1
+      display_name: §1Example Pickaxe
+    2:
+      id: 279
+      damage: 0
+      count: 1
+      display_name: §1Example Axe
+    3:
+      id: 277
+      damage: 0
+      count: 1
+      display_name: §1Example Shovel
+    8:
+      id: 264
+      damage: 0
+      count: 1
+      display_name: §r§aThank you for using EasyKits!
+      lore:
+      - '§r§7Developed by: §9AndreasHGK'
+      - '§r§fTIP: §7Remove this kit. This is just an example.'
+  armor:
+  - id: 306
+    damage: 0
+    count: 1
+    display_name: §1Example Boots
+  - id: 307
+    damage: 0
+    count: 1
+    display_name: §1Example Leggings
+  - id: 308
+    damage: 0
+    count: 1
+    display_name: §1Example Chestplate
+  - id: 309
+    damage: 0
+    count: 1
+    display_name: §1Example Helmet
+  price: 10.000000
+  cooldown: 60
+  flags:
+    locked: true
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: false
+...

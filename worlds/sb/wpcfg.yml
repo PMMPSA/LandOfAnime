@@ -1,0 +1,11 @@
+---
+banitem:
+  46: TNT
+pvp: false
+bancmds:
+  /godmode: /godmode
+  /god: /god
+  /broadcast: /broadcast
+  /broadcaster: /broadcaster
+  /me: /me
+...

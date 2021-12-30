@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/LegendSound/AuctionHouse
+branches:
+- master
+projects:
+  AuctionHouse:
+    path: ""
+    icon: icon.png
+...

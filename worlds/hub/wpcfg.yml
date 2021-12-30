@@ -1,0 +1,9 @@
+---
+pvp: false
+banitem:
+  46: TNT
+bancmds:
+  /me: /me
+  /broadcast: /broadcast
+protect: lock
+...

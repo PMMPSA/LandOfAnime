@@ -1,0 +1,57 @@
+# - Package ( Gói ) Rank Configuration -
+
+VIP1.Package: Gói 1
+VIP2.Package: Gói 2
+VIP3.Package: Gói 3
+VIP4.Package: Gói 4
+VIP5.Package: Gói 5
+VIP6.Package: Gói 6
+
+# - Giá Rank Configuration -
+
+VIP1.Cost: 10
+VIP2.Cost: 50
+VIP3.Cost: 150
+VIP4.Cost: 300
+VIP5.Cost: 500
+VIP6.Cost: 800
+
+# - Group Rank Configuration -
+
+VIP1.Group: VIP1
+VIP2.Group: VIP2
+VIP3.Group: VIP3
+VIP4.Group: VIP4
+VIP5.Group: VIP5
+VIP6.Group: VIP6
+
+# - Ngày Rank Configuration -
+
+VIP1.Day: 6
+VIP2.Day: 15
+VIP3.Day: 30
+VIP4.Day: 150
+VIP5.Day: 300
+VIP6.Day: 600
+
+# - Xác Nhận Mua Vip
+
+Vip.Buy.Button.Confirm: Có
+Vip.Buy.Button.NoConfirm: Không
+
+
+
+# -= Mua Thành Công Configuration =-
+
+Vip.Buy.Success.Title: §l§b♦ §cANIME MUA VIP §b♦
+Vip.Buy.Success.Content: §aBạn đã mua thành công gói này!
+
+Vip.Buy.Success.Submit: Submit
+
+# -= Mua Không Thành Công Configuration =-
+
+Vip.Buy.NoPoint.Title: §l§b♦ §cANIME MUA VIP §b♦
+Vip.Buy.NoPoint.Content: §cBạn không đủ tiền để mua gói này!
+
+Vip.Buy.NoPoint.Submit: Submit
+...

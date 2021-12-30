@@ -1,0 +1,13 @@
+name: Speed
+main: Speed\Main
+version: 1.0.0
+api: 3.0.0
+author: LNTK
+
+commands:
+  speed:
+    description: "Bật đào nhanh"
+    permission: speed.command
+permissions:
+  speed.command:
+    default: op

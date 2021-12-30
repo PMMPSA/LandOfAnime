@@ -1,0 +1,16 @@
+name: SpiderBoss
+main: SpiderBoss\Main
+description: Không biết tiếng tàu
+version: 2.0.2
+api: 3.9.0
+load: POSTWORLD
+author: ace
+commands:
+  spider:
+    description: Tạo con boss Spider
+    usage: "/spider <create/spawn/delete/list>"
+    permission: spider.command
+permissions:
+  spider.command:
+    description: "Allows usage of the minibosses command."
+    default: op

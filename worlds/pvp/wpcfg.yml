@@ -1,0 +1,13 @@
+---
+banitem:
+  9: Still Water
+  325: Bucket
+bancmds:
+  /gamemode: /gamemode
+  /c: /c
+  /muafly: /muafly
+  /broadcaster: /broadcaster
+  /broadcast: /broadcast
+  /gmc: /gmc
+protect: lock
+...

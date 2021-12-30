@@ -1,0 +1,314 @@
+---
+version: 1
+blocks:
+- x: 39
+  "y": 76
+  z: 25
+  level: sanhchinh
+  commands:
+  - warp sb
+- x: 276
+  "y": 70
+  z: 277
+  level: sb
+  commands:
+  - sb auto
+  - sb claim
+- x: 276
+  "y": 70
+  z: 275
+  level: sb
+  commands:
+  - sb home
+- x: 276
+  "y": 71
+  z: 276
+  level: sb
+  commands:
+  - hub
+- x: 65
+  "y": 74
+  z: 27
+  level: sanhchinh
+  commands:
+  - warp sb
+- x: 3
+  "y": 74
+  z: 27
+  level: sanhchinh
+  commands:
+  - shop
+- x: 33
+  "y": 74
+  z: 57
+  level: sanhchinh
+  commands:
+  - pvp
+  - warp pvp
+- x: 33
+  "y": 74
+  z: -6
+  level: sanhchinh
+  commands:
+  - warp drop
+  - warp dropnew
+  - warp dropnew
+  - warp dropnew
+  - warp dnew
+- x: 28
+  "y": 76
+  z: 30
+  level: sanhchinh
+  commands:
+  - givecup {player}
+  - vote
+  - tp 32 194 35
+  - warp quay
+  - vote
+  - vote
+  - hub
+- x: 36
+  "y": 76
+  z: 32
+  level: sanhchinh
+  commands:
+  - matna
+- x: 38
+  "y": 76
+  z: 24
+  level: sanhchinh
+  commands:
+  - angel particle
+- x: 283
+  "y": 66
+  z: 276
+  level: pvp
+  commands:
+  - kill go
+- x: 36
+  "y": 76
+  z: 22
+  level: sanhchinh
+  commands:
+  - topmoney
+- x: 28
+  "y": 76
+  z: 24
+  level: sanhchinh
+  commands:
+  - warp quay
+- x: -98
+  "y": 69
+  z: 837
+  level: sb
+  commands:
+  - kill mode
+- x: -80
+  "y": 27
+  z: 830
+  level: sb
+  commands:
+  - kill mode
+- x: -77
+  "y": 27
+  z: 829
+  level: sb
+  commands:
+  - kill mode
+- x: -76
+  "y": 27
+  z: 825
+  level: sb
+  commands:
+  - kill mode
+  - kill kk
+  - kill kk
+- x: -77
+  "y": 27
+  z: 828
+  level: sb
+  commands:
+  - kill tabo
+- x: -75
+  "y": 27
+  z: 828
+  level: sb
+  commands:
+  - kill kkboss09
+- x: -91
+  "y": 28
+  z: 830
+  level: sb
+  commands:
+  - kill kk
+  - kill mode
+- x: -91
+  "y": 27
+  z: 830
+  level: sb
+  commands:
+  - kill mode
+- x: -90
+  "y": 27
+  z: 830
+  level: sb
+  commands:
+  - kill tabo
+- x: 30
+  "y": 76
+  z: 22
+  level: sanhchinh
+  commands:
+  - topcup
+- x: -89
+  "y": 27
+  z: 847
+  level: sb
+  commands:
+  - kill {player}
+  - kill mode
+- x: 331
+  "y": 6
+  z: 250
+  level: flat
+  commands:
+  - warp boss
+- x: -1232
+  "y": 69
+  z: 652
+  level: sb
+  commands:
+  - slapper effect {player} haste 1000 255
+  - effect {player} haste 10000 255
+  - effect DuyAnh187 haste 1000 255
+  - slapper edit addcommand effect {player} haste 10000 255
+- x: -1232
+  "y": 68
+  z: 651
+  level: sb
+  commands:
+  - slapper edit 16113 addcommand effect {player} haste 1000 255
+- x: -839
+  "y": 64
+  z: -1026
+  level: sb
+  commands:
+  - kill kkboss28
+- x: 280
+  "y": 69
+  z: 277
+  level: sb
+  commands:
+  - wp tp envent
+  - warp pvp
+- x: -96
+  "y": 70
+  z: 271
+  level: sb
+  commands:
+  - warp boss
+- x: -96
+  "y": 70
+  z: 272
+  level: sb
+  commands:
+  - warp envent
+  - warp envent
+- x: -1218
+  "y": 69
+  z: 647
+  level: sb
+  commands:
+  - sell all
+- x: -1406
+  "y": 70
+  z: 1584
+  level: sb
+  commands:
+  - -1406 167 1568
+  - tp -1406 167 1568
+- x: -1232
+  "y": 70
+  z: 655
+  level: sb
+  commands:
+  - tp -1227 159 613
+- x: -1226
+  "y": 161
+  z: 617
+  level: sb
+  commands:
+  - tp -1232 69 653
+- x: 1022
+  "y": 71
+  z: 1585
+  level: sb
+  commands:
+  - hub
+- x: 1955
+  "y": 64
+  z: 446
+  level: sb
+  commands:
+  - shop
+- x: 1986
+  "y": 64
+  z: 469
+  level: sb
+  commands:
+  - shop
+- x: 65
+  "y": 73
+  z: 27
+  level: sanhchinh
+  commands:
+  - warp sb
+- x: 277
+  "y": 70
+  z: 273
+  level: sb
+  commands:
+  - warp pvp
+- x: -1149
+  "y": 76
+  z: 621
+  level: sb
+  commands:
+  - sb warp -3;0
+- x: -472
+  "y": 69
+  z: 88
+  level: sb
+  commands:
+  - sb warp -7;3
+- x: 2151
+  "y": 70
+  z: -475
+  level: sb
+  commands:
+  - shop
+- x: -1027
+  "y": 71
+  z: 639
+  level: sb
+  commands:
+  - shop
+- x: -1027
+  "y": 71
+  z: 638
+  level: sb
+  commands:
+  - hub
+- x: 31
+  "y": 77
+  z: 33
+  level: sanhchinh
+  commands:
+  - server acid
+- x: 35
+  "y": 77
+  z: 33
+  level: sanhchinh
+  commands:
+  - server sur
+...

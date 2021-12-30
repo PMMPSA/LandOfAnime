@@ -1,0 +1,178 @@
+---
+# Config Kit Được Làm Bởi Anime Server
+
+Zeus:
+  items:
+  - "267:0:1:§r§l§aKiếm Zeus:sharpness:50:unbreaking:100" # Kiếm
+  helmet: "306:0:1:§r§l§aMũ Zeus:protection:100:unbreaking:100"
+  chestplate: "307:0:1:§r§l§aÁo Zeus:protection:100:unbreaking:100"
+  leggings: "308:0:1:§r§l§aQuần Zeus:protection:100:unbreaking:100"
+  boots: "309:0:1:§r§l§aGiày Zeus:protection:100:unbreaking:100"
+
+  commands:
+  - "tell {player} §aBạn đã nhận được Kit Zeus"
+  - "say {player} §aBạn đã mua Kit Zeus với giá 50 LCoin."
+
+  cooldown:
+    hours: 00
+    minutes: 00
+    
+  kit-name: "§eϟ §bKit Zeus §eϟ"
+
+  money: 50
+  
+  image-url: ""
+
+  info: "§bBạn có muốn sử dụng Kit Zeus với giá 50 Lcoin chứ ?§a Với các món đồ:§e Thanh kiếm sắt ec sắc nét 50, độ bền 100. Một bộ giáp sắt ec bảo vệ 100 và độ bền 100."
+
+
+Gaia:
+  items:
+  - "267:0:1:§r§l§aKiếm Gaia:sharpness:150:unbreaking:180" # Kiếm
+  helmet: "306:0:1:§r§l§aMũ Gaia:protection:200:unbreaking:180"
+  chestplate: "307:0:1:§r§l§aÁo Gaia:protection:200:unbreaking:180"
+  leggings: "308:0:1:§r§l§aQuần Gaia:protection:200:unbreaking:180"
+  boots: "309:0:1:§r§l§aGiày Gaia:protection:200:unbreaking:180"
+
+  commands:
+  - "tell {player} §aBạn đã nhận được Kit Gaia"
+  - "say {player} §aBạn đã mua Kit Gaia với giá 150 LCoin."
+
+  cooldown:
+    hours: 00
+    minutes: 00
+    
+  kit-name: "§eϟ §bKit Gaia §eϟ"
+
+  money: 150
+  
+  image-url: ""
+
+  info: "§bBạn có muốn sử dụng Kit Gaia với giá 150 Lcoin chứ ?§a Với các món đồ:§e Thanh kiếm sắt ec sắc nét 100, độ bền 180. Một bộ giáp sắt ec bảo vệ 200 và độ bền 180."
+
+
+Doremon:
+  items:
+  - "267:0:1:§r§l§aKiếm Doremon:sharpness:200:unbreaking:230" # Kiếm
+  helmet: "310:0:1:§r§l§aMũ Doremon:protection:300:unbreaking:230"
+  chestplate: "311:0:1:§r§l§aÁo Doremon:protection:300:unbreaking:230"
+  leggings: "312:0:1:§r§l§aQuần Doremon:protection:300:unbreaking:230"
+  boots: "313:0:1:§r§l§aGiày Doremon:protection:300:unbreaking:230"
+
+  commands:
+  - "tell {player} §aBạn đã nhận được Kit Doremon"
+  - "say {player} §aBạn đã mua Kit Doremon với giá 260 LCoin."
+
+  cooldown:
+    hours: 00
+    minutes: 00
+    
+  kit-name: "§eϟ §bKit Doremon §eϟ"
+
+  money: 260
+  
+  image-url: ""
+
+  info: "§bBạn có muốn sử dụng Kit Doremon với giá 260 Lcoin chứ ?§a Với các món đồ:§e Thanh kiếm sắt ec sắc nét 200, độ bền 230. Một bộ giáp sắt ec bảo vệ 300 và độ bền 230."
+
+
+Anime:
+  items:
+  - "276:0:1:§r§l§aKiếm Anime:sharpness:250:unbreaking:310" # Kiếm
+  helmet: "310:0:1:§r§l§aMũ Anime:protection:400:unbreaking:310"
+  chestplate: "311:0:1:§r§l§aÁo Anime:protection:400:unbreaking:310"
+  leggings: "312:0:1:§r§l§aQuần Anime:protection:400:unbreaking:310"
+  boots: "313:0:1:§r§l§aGiày Anime:protection:400:unbreaking:310"
+
+  commands:
+  - "tell {player} §aBạn đã nhận được Kit Anime"
+  - "say {player} §aBạn đã mua Kit Anime với giá 340 LCoin."
+
+  cooldown:
+    hours: 00
+    minutes: 00
+    
+  kit-name: "§eϟ §bKit Anime §eϟ"
+
+  money: 340
+  
+  image-url: ""
+
+  info: "§bBạn có muốn sử dụng Kit Anime với giá 340 Lcoin chứ ?§a Với các món đồ:§e Thanh kiếm kim cương ec sắc nét 250, độ bền 310. Một bộ giáp kim cương ec bảo vệ 400 và độ bền 310."
+
+
+Nobita:
+  items:
+  - "276:0:1:§r§l§6Kiếm Nobita:sharpness:300:unbreaking:440" # Kiếm
+  helmet: "310:0:1:§r§l§6Mũ Nobita:protection:500:unbreaking:440"
+  chestplate: "311:0:1:§r§l§6Áo Nobita:protection:500:unbreaking:440"
+  leggings: "312:0:1:§r§l§6Quần Nobita:protection:500:unbreaking:440"
+  boots: "313:0:1:§r§l§6Giày Nobita:protection:500:unbreaking:440"
+
+  commands:
+  - "tell {player} §aBạn đã mua thành công Kit Nobita"
+  - "say {player} §aBạn đã mua Kit Nobita với giá 480 LCoin."
+
+  cooldown:
+    hours: 00
+    minutes: 00
+    
+  kit-name: "§eϟ §bKit Nobita §eϟ"
+
+  money: 480
+  
+  image-url: ""
+
+  info: "§bBạn có muốn sử dụng Kit Nobita với giá 480 Lcoin chứ ?§a Với các món đồ:§e Thanh kiếm kim cương ec sắc nét 300, độ bền 440. Một bộ giáp kim cương ec bảo vệ 500 và độ bền 440."
+
+
+Vocuc:
+  items:
+  - "276:0:1:§r§l§cKiếm Vô cực:sharpness:500:unbreaking:500" # Kiếm
+  helmet: "310:0:1:§r§l§cMũ Vô cực:protection:1000:unbreaking:500"
+  chestplate: "311:0:1:§r§l§cÁo Vô cực:protection:1000:unbreaking:500"
+  leggings: "312:0:1:§r§l§cQuần Vô cực:protection:1000:unbreaking:500"
+  boots: "313:0:1:§r§l§cGiày Vô cực:protection:1000:unbreaking:500"
+
+  commands:
+  - "tell {player} §aBạn đã nhận được Kit Vô cực"
+  - "say {player} §aBạn đã mua Kit Vô cực với giá 1000 LCoin.(Rich kid là đây chứ đâu :)) )"
+
+  cooldown:
+    hours: 00
+    minutes: 00
+    
+  kit-name: "§eϟ §bKit Vô cực §eϟ"
+
+  money: 1000
+  
+  image-url: ""
+
+  info: "§bBạn có muốn sử dụng Kit Vô cực với giá 1000 Lcoin chứ ?§a Với các món đồ:§e Thanh kiếm kim cương ec sắc nét 500, độ bền 500. Một bộ giáp kim cương ec bảo vệ 1000 và độ bền 500."
+  
+  
+Archer:
+  items:
+  - "280:0:1:§r§l§cGậy Thông Trĩ:knockback:50:unbreaking:50" # Gậy
+  - "261:0:1:§r§l§cCung Archer:power:50:unbreaking:50" # Cung
+  helmet: "310:0:1:§r§l§cMũ Archer:protection:100:unbreaking:50"
+  chestplate: "311:0:1:§r§l§cÁo Archer:protection:100:unbreaking:50"
+  leggings: "312:0:1:§r§l§cQuần Archer:protection:100:unbreaking:50"
+  boots: "313:0:1:§r§l§cGiày Archer:protection:100:unbreaking:50"
+
+  commands:
+  - "tell {player} §aBạn đã nhận được Kit Archer"
+  - "say {player} §aBạn đã mua Kit Archer với giá 130 LCoin."
+
+  cooldown:
+    hours: 00
+    minutes: 00
+    
+  kit-name: "§eϟ §bKit Archer §eϟ"
+
+  money: 130
+  
+  image-url: ""
+
+  info: "§bBạn có muốn sử dụng Kit Archer với giá 130 Lcoin chứ ?§a Với các món đồ:§e Cung ec sức mạnh 50, độ bền 50. Gậy thông trĩ bật lùi 50. Một bộ giáp kim cương ec bảo vệ 100 và độ bền 50."
+...

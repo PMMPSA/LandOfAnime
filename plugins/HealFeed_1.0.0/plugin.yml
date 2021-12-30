@@ -1,0 +1,19 @@
+name: HealFeed
+main: HealFeed\Main
+version: 1.0.0
+api: 3.0.0
+author: Nờ Cờ Dờ (NCD)
+
+commands:
+  heal:
+    description: "Hiệu Ứng Hồi Đầy Thanh Máu"
+    permission: heal.command
+  feed:
+    description: "Hiệu Ứng Hồi Đầy Thanh Đói"
+    permission: feed.command
+
+permissions:
+  heal.command:
+    default: op
+  feed.command:
+    default: op

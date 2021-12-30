@@ -1,0 +1,5 @@
+name: Mask
+main: Mask\Mask
+api: [3.0.0, 4.0.0]
+author: xEmirhanWSD
+version: 1.0

@@ -1,0 +1,8 @@
+name: PetShop
+api: 3.0.0
+author: Của Tk Nghĩa Óc Khang Xin Edit Nha
+main: KNMiner\Main
+version: 1.0.0
+commands:
+ petshop:
+  description: Pet Shop

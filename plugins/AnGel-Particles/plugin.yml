@@ -1,0 +1,14 @@
+name: Particles
+main: Angel\Main
+version: 1.3
+api: [3.0.0]
+author: "vk.com/eddir"
+commands:
+  angel:
+    description: Angel Particle
+    permission: firewings.command.angel
+    usage: /angel
+permissions:
+  firewings.command.angel:
+    default: true
+    description: Permission for fire wings

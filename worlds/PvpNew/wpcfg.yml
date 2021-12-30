@@ -1,0 +1,11 @@
+---
+bancmds:
+  /fly: /fly
+  /gmc: /gmc
+  /me: /me
+banitem:
+  325: Bucket
+  8: Water
+  10: Lava
+protect: lock
+...

@@ -1,0 +1,13 @@
+name: TpTo
+main: TpTo\Main
+version: 1.0.0
+api: 3.0.0
+author: LNTK
+
+commands:
+  tpto:
+    description: "Dịch chuyển bạn đến người chơi khác"
+    permission: tps.command
+permissions:
+  tps.command:
+    default: op

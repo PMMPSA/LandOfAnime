@@ -1,0 +1,13 @@
+name: Jump
+main: Jump\Main
+version: 1.0.0
+api: 3.0.0
+author: LNTK
+
+commands:
+  jump:
+    description: "Bật đào nhanh"
+    permission: jump.command
+permissions:
+  jump.command:
+    default: op

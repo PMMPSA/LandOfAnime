@@ -1,0 +1,9 @@
+name: HuongDanCachChoi
+main: HuongDanCachChoi\Main
+version: 1.0.0
+api: 3.0.0
+author: Nờ Cờ Dờ (NCD)
+
+commands:
+  huongdancachchoi:
+    description: Hướng Dẫn Cách Chơi
